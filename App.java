@@ -2,7 +2,6 @@ import java.util.logging.Logger;
 
 import controller.EmployeeDatabase;
 import controller.PayrollService;
-import exceptions.EmployeeNotFoundException;
 import exceptions.InvalidSalaryRateException;
 import models.Employee;
 
